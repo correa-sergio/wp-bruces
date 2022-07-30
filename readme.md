@@ -1,4 +1,4 @@
-# Welcome to WordPress Brute Force Script - WP-BruCeS) 🚀
+# Welcome to WordPress Brute Force Script - (WP-BruCeS) 🚀
 
 WP-BruCeS is a script developed in bash to provide analysis for possible wordpress credentials for CTF (Capture the Flag) challenges.
 
